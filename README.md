@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Project Group 1](#project-group-1)
 - [Introduction](#introduction)
 - [Modular Design for Scalability](#modular-design-for-scalability)
 - [Getting Started](#getting-started)
